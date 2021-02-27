@@ -16,7 +16,7 @@ Here you will find all the material on the Knowledge Representation and Semantic
 |[http://www.diag.uniroma1.it//rosati/krst/](http://www.diag.uniroma1.it//rosati/krst/)  | 2020|
 
 | Classroom | Key | Last Update| 
-|--------| ------------ | 
+|--------| ------------ | --------|
 |[https://classroom.google.com/u/0/](https://classroom.google.com/u/0/) | ubenp43 | 2020|
 
 ## Solutions of Exams by
