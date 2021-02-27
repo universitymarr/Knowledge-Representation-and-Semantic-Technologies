@@ -9,6 +9,15 @@ Here you will find all the material on the Knowledge Representation and Semantic
 | Notes  | Yes | 2020 |
 | Slides | Yes | 2020 |
 
+## Website of the course
+
+| Course Site| Last Update |
+|--------| ------------ | 
+|[http://www.diag.uniroma1.it//rosati/krst/](http://www.diag.uniroma1.it//rosati/krst/)  | 2020|
+
+| Classroom | Key | Last Update| 
+|--------| ------------ | 
+|[https://classroom.google.com/u/0/](https://classroom.google.com/u/0/) | ubenp43 | 2020|
 
 ## Solutions of Exams by
 
